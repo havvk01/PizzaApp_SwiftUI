@@ -1,0 +1,20 @@
+[{
+    "name":"Pepperoni",
+    "featured": false,
+    "image" : "pizza_pepperoni",
+    "toppings":["Sauce","Tomato","Salame"]
+},
+{
+    "name":"BBQ",
+    "featured": false,
+    "image" : "pizza_bbq",
+    "toppings":["Sauce","Beacon","Meat"]
+},
+{
+    "name":"Hawaiian",
+    "featured": false,
+    "image" : "pizza_hawaiian",
+    "toppings":["Sauce","Pineapple","Chicken"]
+}
+]
+
