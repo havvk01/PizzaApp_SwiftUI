@@ -39,7 +39,7 @@ struct PizzaListView: View {
                 
                 
             }
-            .navigationBarTitle("All Recipes")
+            .navigationBarTitle("All2 Recipes")
         }
     }
 }
