@@ -27,7 +27,7 @@ struct PizzaDetailView: View {
                         .font(.headline)
                     
                     ForEach (recipe.toppings, id:\.self) { item in
-                        Text("-" + item)
+                        Text("---" + item)
                         
                     }
                 
