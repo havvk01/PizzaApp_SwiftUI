@@ -15,6 +15,7 @@
 		0B2C3675274BA53700EE008C /* Recipe.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B2C3674274BA53700EE008C /* Recipe.swift */; };
 		0B2C3677274BA56900EE008C /* RecipeModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B2C3676274BA56900EE008C /* RecipeModel.swift */; };
 		0B66F35327536AA300D4BF30 /* PizzaDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B66F35227536AA300D4BF30 /* PizzaDetailView.swift */; };
+		0BA5B1DB275E066C007E4253 /* MyModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BA5B1DA275E066C007E4253 /* MyModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		0B2C3674274BA53700EE008C /* Recipe.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Recipe.swift; sourceTree = "<group>"; };
 		0B2C3676274BA56900EE008C /* RecipeModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeModel.swift; sourceTree = "<group>"; };
 		0B66F35227536AA300D4BF30 /* PizzaDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PizzaDetailView.swift; sourceTree = "<group>"; };
+		0BA5B1DA275E066C007E4253 /* MyModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 			isa = PBXGroup;
 			children = (
 				0B2C365D274BA43800EE008C /* pizzaRecipe.swift */,
+				0BA5B1DA275E066C007E4253 /* MyModel.swift */,
 				0B2C366E274BA49500EE008C /* Views */,
 				0B2C366C274BA47200EE008C /* ViewModels */,
 				0B2C366D274BA48500EE008C /* Models */,
@@ -184,6 +187,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0B2C3675274BA53700EE008C /* Recipe.swift in Sources */,
+				0BA5B1DB275E066C007E4253 /* MyModel.swift in Sources */,
 				0B2C3677274BA56900EE008C /* RecipeModel.swift in Sources */,
 				0B66F35327536AA300D4BF30 /* PizzaDetailView.swift in Sources */,
 				0B2C3660274BA43800EE008C /* PizzaListView.swift in Sources */,
